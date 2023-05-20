@@ -1,0 +1,1 @@
+Simple Octree implementation based on scriptable objects. It allows to store data (eg. verts of mesh) in octree to allow for async loading of octree nodes for low RAM devices where generating big octree dynamically is not optimal 

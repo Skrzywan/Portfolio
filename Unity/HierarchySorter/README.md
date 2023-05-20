@@ -1,0 +1,1 @@
+Tool for sorting hierarchy in open scenes. Allows to quiclky create new flexible rules. Leverages  ScriptableObjects to allow for easy modification of sorting pipeline and easy definition of new sorting algorithms
