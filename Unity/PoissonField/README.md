@@ -1,0 +1,2 @@
+[Poisson Disk Sampling](https://sighack.com/post/poisson-disk-sampling-bridsons-algorithm) is an algorithm used for generating random looking collection of points.
+In short this generates list of random points ensuring no two points lay closer to eachother than given distance.
